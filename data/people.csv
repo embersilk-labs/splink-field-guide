@@ -1,0 +1,15 @@
+unique_id,first_name,surname,dob,postcode
+1,Alice,Johnson,1988-04-12,02139
+2,Alise,Johnson,1988-04-12,02139
+3,Robert,Chen,1975-11-03,98101
+4,Rob,Chen,1975-11-03,98101
+5,Maria,Garcia,1990-07-22,10001
+6,Maria,Garica,1990-07-22,10001
+7,Sam,Lee,1985-02-14,60601
+8,Sam,Lee,1993-08-09,60601
+9,Priya,Shah,1982-10-05,94107
+10,Priya,Shah,1982-10-05,94107
+11,Elena,Martin,1994-03-08,30301
+12,Elena,Martn,1994-03-08,33101
+13,Noah,Kim,2001-06-20,75001
+14,Eva,Lopez,1969-09-17,
